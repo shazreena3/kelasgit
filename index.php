@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello git";
+echo "Hello git UTM";
 
-echo "Hai";
+echo "intro to git";
